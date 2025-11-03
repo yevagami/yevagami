@@ -1,10 +1,10 @@
 <h1 align="center">WELCOME</h1>
-<br>
 <h3 align="center"> I hope you're not bored </h3>
+<br>
 
 ###
 
-<p align="left">My name is Adriel. I'm an engine developer/gameplay programmer/designer/artist</p>
+<h4 align="left">My name is Adriel. I'm an engine developer/gameplay programmer/designer/artist</p>
 
 ###
 
