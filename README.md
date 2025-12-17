@@ -1,6 +1,6 @@
 <h1 align="center">WELCOME</h1>
 <div align="center">
-  <img height="500" src="./Raidou.gif"  />
+  <img height="250" src="./Raidou.gif"  />
 </div>
 <h3 align="center"> I hope you're not bored </h3>
 <br>
