@@ -1,5 +1,7 @@
 <h1 align="center">WELCOME</h1>
-<img height="200" src="./Raidou.gif" align="center"/>
+<div align="center">
+  <img height="500" src="./Raidou.gif"  />
+</div>
 <h3 align="center"> I hope you're not bored </h3>
 <br>
 
