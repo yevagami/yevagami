@@ -1,5 +1,5 @@
 <h1 align="center">WELCOME</h1>
-![Icon](https://github.com/yevagami/yevagami/blob/main/Raidou.gif)
+![Icon](Raidou.gif)
 <h3 align="center"> I hope you're not bored </h3>
 <br>
 
