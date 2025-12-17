@@ -47,6 +47,7 @@
   <img src="https://img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white"/>
   <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=GodotEngine&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenGL-FFFFFF?style=for-the-badge&logo=opengl"/>
+  <img src="https://img.shields.io/badge/Vulkan-a41e22?style=for-the-badge&logo=vulkan&logoColor=white"/>
 </div>
 
 ###
