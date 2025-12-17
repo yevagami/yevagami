@@ -1,5 +1,5 @@
 <h1 align="center">WELCOME</h1>
-![Icon](./Raidou.gif)
+  <img height="200" src="./Raidou.gif"  />
 <h3 align="center"> I hope you're not bored </h3>
 <br>
 
